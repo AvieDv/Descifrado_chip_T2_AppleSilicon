@@ -1,6 +1,6 @@
 # Descifrado_chip_T2_AppleSilicon
 
-#¿Qué es el chip de seguridad T2?
+# ¿Qué es el chip de seguridad T2?
 
 El Apple T2 es un chip de seguridad de confianza. Asegura funciones esenciales, como Arranque
 seguro, Bloqueo de activación, Touch ID y almacenamiento de datos cifrados. etc.
@@ -32,7 +32,7 @@ Antes de hacer jailbreak al chip T2, primero necesita:
 • Otra computadora con MacOS
 • Cable USB-C a USB-C
 
-#Procedimiento:
+# Procedimiento:
 
 Paso1. Descargue el último software checkra1n en MacOS que no está haciendo jailbreak. Esto se
 puede hacer visitando el sitio oficial aquí 164, o, si usa Homebrew, simplemente escribiendo:
