@@ -32,7 +32,8 @@ Antes de hacer jailbreak al chip T2, primero necesita:
 • Otra computadora con MacOS
 • Cable USB-C a USB-C
 
-Procedimiento:
+#Procedimiento:
+
 Paso1. Descargue el último software checkra1n en MacOS que no está haciendo jailbreak. Esto se
 puede hacer visitando el sitio oficial aquí 164, o, si usa Homebrew, simplemente escribiendo:
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
