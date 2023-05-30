@@ -1,4 +1,4 @@
-# Descifrado_chip_T2_AppleSilicon
+# Descifrado chip T2 : Es un chip Apple Silicon
 <img width="841" alt="Captura de Pantalla 2023-05-30 a la(s) 02 28 25" src="https://github.com/AvieDv/Descifrado_chip_T2_AppleSilicon/assets/43917721/56b623b1-db20-40ca-a943-07899a1da254">
 
 Esto incluye a las Mac con Apple Silicon pero el chip dentro del SoC funciona de otra manera.
