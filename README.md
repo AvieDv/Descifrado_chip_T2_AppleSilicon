@@ -1,0 +1,1 @@
+# Descifrado_chip_T2_AppleSilicon
